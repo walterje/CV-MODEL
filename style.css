@@ -1,0 +1,59 @@
+﻿aside, article, section, nav, header{
+	display:block;
+	margin:0px;
+	padding:0px;
+}
+
+p, h1, h2, h3{
+	margin:0px;
+	padding:0px;
+}
+
+html, body{
+	margin:0px;
+	padding:0px;	
+}
+
+html{
+	background-color:white;
+}
+
+body{
+	border: solid 1px black;
+	background-color:lavender;
+	margin:0 auto;
+	width:960px;
+}
+
+header{
+	height:120px;
+	background-color:lavender;
+	text-align:center;
+	font:black;
+}
+
+picFoto{
+	border:solid 1px black;;
+}
+
+article{
+	height:1100px;
+	width:710px;
+	background-color:lavender;
+	float:right;
+}
+
+aside{
+	height:1100px;
+	width:250px;
+	background-color:lavender;
+	float:left;
+	text-align:center;
+}
+
+footer{
+	height:60px;
+	background:lavender;
+	clear:both;
+	text-align:center;
+}
