@@ -32,19 +32,15 @@ header{
 	font:black;
 }
 
-picFoto{
-	border:solid 1px black;;
-}
-
 article{
-	height:1100px;
+	height:1300px;
 	width:710px;
 	background-color:lavender;
 	float:right;
 }
 
 aside{
-	height:1100px;
+	height:1300px;
 	width:250px;
 	background-color:lavender;
 	float:left;
